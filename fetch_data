@@ -2,9 +2,9 @@
   "LikeeJson":{
     "AdsController": {
       "NetworkAds": "Admob",
-      "AdmobNativeBanner": "",
+      "AdmobNativeBanner": "ca-app-pub-3940256099942544/2247696110",
       "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-      "AdmobInterstitial": "",
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/103317371",
       "AdmobReward": "",
       "InitSource": "146cc7029"
       },
