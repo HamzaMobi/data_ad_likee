@@ -1,0 +1,17 @@
+{
+  "LikeeJson":{
+    "AdsController": {
+      "NetworkAds": "Admob",
+      "AdmobNativeBanner": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobReward": "ca-app-pub-3940256099942544/5224354917",
+      "InitSource": "146cc7029"
+      },
+    "items":{
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  }
+}
